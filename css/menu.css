@@ -1,0 +1,50 @@
+#menuBoard {
+	background-image: url("../images/chalkboard.jpg");
+	height:667px;
+}
+
+#specialBox {
+	width:450px;
+	margin: 10px 10px 5px 21px;
+	border: 4px solid #DDDDDD;
+	float: left;
+}
+
+#menuBoard img {
+	float:right;
+	margin: 50px 100px 0px 0px;
+}
+
+.menuBox {
+	float: left;
+	border: 4px solid #DDDDDD;
+	width: 450px;
+	margin: 0px 21px;
+}
+
+h2 {
+	text-align:center;
+	color: #ffffff;
+	font-family: 'Kalam', cursive;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+
+#menuBoard ul {
+	list-style:none;
+}
+
+#menuBoard li {
+	color: #ffffff;
+	font-family: 'Kalam', cursive;
+	font-size: 18px;
+}
+
+.left {
+	float:left;
+}
+
+.right {
+	float:right;
+	margin-right: 20px;
+}
